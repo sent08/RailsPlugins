@@ -1,0 +1,11 @@
+vo=directx
+#vo=gl:yuv=3:lscale=1
+double=yes
+font=c:/windows/fonts/arial.ttf
+autosync=100
+framedrop=yes
+quiet=yes
+#adapter=2
+#fs=yes
+
+

@@ -1,0 +1,2 @@
+c:/mplayer/mencoder c:/video/my_video.mpeg -o c:/video/output.flv -of lavf -oac mp3lame -lameopts abr:br=56 -srate 22050 -ovc lavc -lavcopts vcodec=flv:vbitrate=500:mbd=2:mv0:trell:v4mv:cbp:last_pred=3 -lavfopts i_certify_that_my_video_stream_does_not_use_b_frames
+dir
